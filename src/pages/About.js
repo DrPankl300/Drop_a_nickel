@@ -9,7 +9,10 @@ function About() {
 					<></>
 			</div>
 			<div className="RS">
-				<h1> ABOUT ME </h1>
+				<div>
+						<h1> ABOUT ME <small>updated on 3/16/2022</small></h1>
+						
+				</div>
 				<p> Hi, I’m Billy Grant, owner and operator of Drop A Nickel Pro Shop! </p>
 
 				<p>I’m 34 years old and have been bowling since I was 4. I shot my first 200 game at age 12 with my plastic Ebonite Maxim and from that point on, I knew that bowling was going to be my life! Since then I shot my first 600 series at age 13, 
