@@ -31,10 +31,6 @@
   width: fit-content;
 }
 
-.RS small {
-  font-size: .5em;
-}
-
 .RS p {
   margin-left: 1em;
 }
