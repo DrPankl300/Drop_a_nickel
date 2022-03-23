@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Drop_a_nickel/static/css/main.b31270fc.css",
-    "main.js": "/Drop_a_nickel/static/js/main.69b3acfa.js",
+    "main.css": "/Drop_a_nickel/static/css/main.92acee31.css",
+    "main.js": "/Drop_a_nickel/static/js/main.6581f114.js",
     "static/media/bowlingHome.jpg": "/Drop_a_nickel/static/media/bowlingHome.c92e70757004c10ecf0e.jpg",
     "static/media/underConstruction.gif": "/Drop_a_nickel/static/media/underConstruction.0894bc34490fddc6df41.gif",
     "static/media/bowlingLogo.png": "/Drop_a_nickel/static/media/bowlingLogo.f02907689a3eb17ef1a7.png",
     "static/media/Billy.jpg": "/Drop_a_nickel/static/media/Billy.674c74a43be5f5229ce5.jpg",
     "index.html": "/Drop_a_nickel/index.html",
-    "main.b31270fc.css.map": "/Drop_a_nickel/static/css/main.b31270fc.css.map",
-    "main.69b3acfa.js.map": "/Drop_a_nickel/static/js/main.69b3acfa.js.map"
+    "main.92acee31.css.map": "/Drop_a_nickel/static/css/main.92acee31.css.map",
+    "main.6581f114.js.map": "/Drop_a_nickel/static/js/main.6581f114.js.map"
   },
   "entrypoints": [
-    "static/css/main.b31270fc.css",
-    "static/js/main.69b3acfa.js"
+    "static/css/main.92acee31.css",
+    "static/js/main.6581f114.js"
   ]
 }
