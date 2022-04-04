@@ -270,15 +270,6 @@
    "image": "images/used/Ebonite Choice Pearl (2).jpg"
  },
  {
-   "id": 31,
-   "name": "Ebonite Choice Solid",
-   "condition": "New",
-   "description": "Was mis-drilled and fully plugged. Has never gone down a lane",
-   "price": 100,
-   "weight": "15",
-   "image": "images/new/Ebonite Choice Solid.jpg"
- },
- {
    "id": 32,
    "name": "Ebonite Game Breaker 2",
    "condition": "Used",
@@ -313,15 +304,6 @@
    "price": 80,
    "weight": "15",
    "image": "images/used/Ebonite Gyro XL5 (rubber!) (2).jpg"
- },
- {
-   "id": 36,
-   "name": "Ebonite Maverick Pearl",
-   "condition": "Used",
-   "description": "Cracked bridge (easily fixable/not an issue)",
-   "price": 20,
-   "weight": "15",
-   "image": "images/used/Ebonite Maverick Pearl (2).jpg"
  },
  {
    "id": 37,
@@ -486,15 +468,6 @@
    "image": "images/used/Hammer Scandal_S (2).jpg"
  },
  {
-   "id": 55,
-   "name": "Hammer Statement Hybrid",
-   "condition": "New",
-   "description": "Was mis-drilled and fully plugged. Has never gone down a lane",
-   "price": 100,
-   "weight": "15",
-   "image": "images/new/Hammer Statement Hybrid.jpg"
- },
- {
    "id": 56,
    "name": "Hammer Statement Solid",
    "condition": "Used",
@@ -610,15 +583,6 @@
    "price": 40,
    "weight": "15",
    "image": "images/used/Roto Grip Hustle INK (2).jpg"
- },
- {
-   "id": 69,
-   "name": "Roto Grip Idol",
-   "condition": "New",
-   "description": "New in box. Willing to take offers",
-   "price": 200,
-   "weight": "14",
-   "image": "images/new/Roto Grip Idol.jpg"
  },
  {
    "id": 70,
