@@ -639,15 +639,6 @@
    "image": "images/used/Storm Drive (2).jpg"
  },
  {
-   "id": 76,
-   "name": "Storm Electrify Hybrid",
-   "condition": "New",
-   "description": "New in box",
-   "price": 100,
-   "weight": "15",
-   "image": "images/new/Storm Electrify Hybrid.jpg"
- },
- {
    "id": 77,
    "name": "Storm Eraser Blaze (old gem from 2002)",
    "condition": "Used",
