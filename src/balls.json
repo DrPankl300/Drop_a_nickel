@@ -342,15 +342,6 @@
    "image": "images/new/Ebonite V2.jpg"
  },
  {
-   "id": 41,
-   "name": "Hammer Black Widow Black and Gold",
-   "condition": "Used",
-   "description": "Has Interchangeable Thumb",
-   "price": 40,
-   "weight": "15",
-   "image": "images/used/Hammer Black Widow Black and Gold (2).jpg"
- },
- {
    "id": 42,
    "name": "Hammer Black Widow Gold",
    "condition": "Used",
@@ -529,15 +520,6 @@
    "price": 30,
    "weight": "14",
    "image": "images/used/Radical Conspiracy Theory (2).jpg"
- },
- {
-   "id": 63,
-   "name": "Radical Squatch Hybrid",
-   "condition": "Used",
-   "description": "Like new after a small cleaning",
-   "price": 40,
-   "weight": "15",
-   "image": "images/used/Radical Squatch Hybrid (2).jpg"
  },
  {
    "id": 64,
